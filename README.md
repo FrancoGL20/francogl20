@@ -1,6 +1,6 @@
 # Hola, mi nombre es Francisco Gutiérrez López 👋
 
-Soy un programador Full-Stack (Back-End principalmente) apasionado siempre por aprender nuevas cosas que me permitan mejorar tanto de forma laboral como personal y espiritual, de igual forma soy una persona disciplinada y pragmática que busca siempre hacer las cosas de la mejor manera posible.
+Soy un Ingeiero en sistemas y tecnologías de la información, programador Full-Stack (Back-End principalmente) apasionado siempre por aprender nuevas cosas que me permitan mejorar tanto de forma laboral como personal y espiritual, de igual forma soy una persona disciplinada y pragmática que busca siempre hacer las cosas de la mejor manera posible.
 
 </br>
 

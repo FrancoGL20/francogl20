@@ -35,11 +35,11 @@ Y alguna más...
 
 ## Encuéntrame en
 
-[![Discord](https://img.shields.io/badge/Discord-franciscogl-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discordapp.com/users/569014692312383489)
-[![Instagram](https://img.shields.io/badge/Instagram-@franc_lopez35-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]()
-</br>
-[![Facebook](https://img.shields.io/badge/Facebook-@franciscogl-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/francisco.gutierrezlopez.144/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciscogl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-gl)
+[![Facebook](https://img.shields.io/badge/Facebook-@franciscogl-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/francisco.gutierrezlopez.144/)
+</br>
+[![Instagram](https://img.shields.io/badge/Instagram-@franc_lopez35-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/franc_lopez35/)
+[![Discord](https://img.shields.io/badge/Discord-franciscogl-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://discordapp.com/users/569014692312383489)
 </br>
 </br>
 

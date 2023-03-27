@@ -45,4 +45,4 @@ And then some more...
 
 #### You can support my work by doing "☆ Star" in the repo or nominate me for "GitHub Star". Thank you
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominate_me_to_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)

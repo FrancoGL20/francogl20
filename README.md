@@ -1,6 +1,6 @@
-# Hola, mi nombre es Francisco Gutiérrez López 👋
+# Hello, my name is Francisco Gutierrez Lopez 👋
 
-Soy un Ingeiero en sistemas y tecnologías de la información, programador Full-Stack (Back-End principalmente) apasionado siempre por aprender nuevas cosas que me permitan mejorar tanto de forma laboral como personal y espiritual, de igual forma soy una persona disciplinada y pragmática que busca siempre hacer las cosas de la mejor manera posible.
+I am an engineer in systems and information technologies, programmer Full-Stack (Back-End mainly) passionate always to learn new things that allow me to improve both in a personal and spiritual way, likewise I am a disciplined and pragmatic person who always seeks to do things in the best possible way.
 
 </br>
 
@@ -29,11 +29,11 @@ Soy un Ingeiero en sistemas y tecnologías de la información, programador Full-
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1575F9?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
+And then some more...
 </br>
 </br>
 
-## Encuéntrame en
+## Find me in
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciscogl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-gl)
 [![Facebook](https://img.shields.io/badge/Facebook-@franciscogl-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/francisco.gutierrezlopez.144/)
@@ -43,6 +43,6 @@ Y alguna más...
 </br>
 </br>
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias
+#### You can support my work by doing "☆ Star" in the repo or nominate me for "GitHub Star". Thank you
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)

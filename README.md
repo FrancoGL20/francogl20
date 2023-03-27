@@ -4,7 +4,7 @@ I am an engineer in systems and information technologies, programmer Full-Stack 
 
 </br>
 
-## Tecnologías
+## Tecnologies
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
